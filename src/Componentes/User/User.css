@@ -1,0 +1,32 @@
+.img{
+    height: 200px;
+    width: 250px;
+    border-radius: 44px;
+}
+
+.btn-cart{
+    background-color: #fb5204;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(241, 153, 11);
+    padding-right: 35px;
+    padding-left: 35px;
+}
+.singel-cart{
+  border: 1px solid rgb(239, 245, 239);
+  border-radius: 20px;
+  padding: 24px;
+  padding-bottom: 15px;
+  background-color: rgba(50, 235, 195, 0.87);
+  color: rgb(128, 58, 0);
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.font-style{
+  color: crimson;
+}
+#logo{
+  color: rgb(41, 1, 28);
+}

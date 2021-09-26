@@ -1,0 +1,15 @@
+.datels{
+    background-color: rgb(141, 252, 141);
+    
+    border: 1px solid lightsalmon;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+.font-datels{
+    text-align: center;
+    padding: 20px;
+   color: rgb(5, 71, 5)
+    
+}
